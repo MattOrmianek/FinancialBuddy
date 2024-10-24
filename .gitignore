@@ -176,4 +176,4 @@ dist
 
 # Firebase
 firebase.json
-src/components/firebase.js
+src/firebase.js
